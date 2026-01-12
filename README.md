@@ -1,5 +1,6 @@
 วีรภัทร สุขพิไลกุล
 683450193-9
+
 classDiagram
     class IngredientStock {
         +int Water
@@ -10,20 +11,16 @@ classDiagram
         +Use()
         +Refill()
     }
-
-    class Drink {
+     class Drink {
         +string Name
         +Dictionary Ingredients
     }
-
-    class CoffeeMachine {
+        class CoffeeMachine {
         +MakeDrink()
     }
-
-    class Program {
+     class Program {
         +Main()
     }
-
     CoffeeMachine --> IngredientStock : uses
     CoffeeMachine --> Drink : makes
     Program --> CoffeeMachine : controls
