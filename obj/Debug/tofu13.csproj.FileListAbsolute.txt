@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\tofu13\tofu13\bin\Debug\tofu13.exe.config
+C:\Users\User\source\repos\tofu13\tofu13\bin\Debug\tofu13.exe
+C:\Users\User\source\repos\tofu13\tofu13\bin\Debug\tofu13.pdb
+C:\Users\User\source\repos\tofu13\tofu13\obj\Debug\tofu13.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\tofu13\tofu13\obj\Debug\tofu13.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\tofu13\tofu13\obj\Debug\tofu13.exe
+C:\Users\User\source\repos\tofu13\tofu13\obj\Debug\tofu13.pdb
